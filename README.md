@@ -1,2 +1,1 @@
-Hii this is readme file from feture branch
-feature
+Hii this is readme file from main branch
